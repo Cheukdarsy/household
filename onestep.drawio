@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-20T07:01:16.377Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="At16jt4H9VXMr6gcDzKM" version="17.4.5" type="github">
+<mxfile modified="2022-04-20T07:01:59.915Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Tc6jV8n4MPkwWGCpSDhQ" version="17.4.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1234" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="J-rWpSuzlE0chl-FgBID-24" value="用户故事" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J-rWpSuzlE0chl-FgBID-25" value="分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="J-rWpSuzlE0chl-FgBID-25" value="分类视图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="270" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J-rWpSuzlE0chl-FgBID-27" value="敏捷项目管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#000000;rounded=1;" vertex="1" parent="1">
